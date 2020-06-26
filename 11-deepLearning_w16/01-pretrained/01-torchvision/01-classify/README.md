@@ -19,7 +19,9 @@ Labrador retriever    # Output
 ## 1.3- Solution
 * 這裡將想辨識的照片寫入，欲辨識的物體是 **狗** 照片。
 <br>
+
 ![alexnet-code](img-notes/alexnet.png)
+
 ![dog](img/dog.jpg)
 <br>
 
@@ -52,7 +54,9 @@ lynx, catamount     # Output
 * 這裡將欲辨識的物體是 **貓** 照片。
 * 選擇的網路模型是 **Resnet18**
 <br>
+
 ![predict-code](img-notes/resnet18.png)
+
 ![cat](img/cat.jpg)
 
 <br>
