@@ -3,10 +3,7 @@
 > Date: 2020/ 03/ 05 (Thur.)
 
 
-## Install
-* 環境安裝
-* [Python](https://www.python.org/downloads/)
-* [PyCharm](https://www.jetbrains.com/education/download/#section=pycharm-edu)
+
 
 # 課上執行範例
 
