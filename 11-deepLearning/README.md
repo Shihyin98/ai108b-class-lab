@@ -9,16 +9,6 @@
 * [PyCharm](https://www.jetbrains.com/education/download/#section=pycharm-edu)
 
 
-
-# 課上執行範例
-
-## 11-deepLearning
-|                  執行代碼                 |    代碼執行筆記    |
-| :--------------------------------------: | :---------: | 
-| 01-pretrained/ 01-torchvision/ 01-classify/ alexnet.py | [01-README](01-hello/README.md) |
-| 01-pretrained/ 02-torchtext/ 01-classify1/ torchtext_classify.py | [02-README](02-control/README.md) |
-
-
 # 上課內容 (Course Content)
 
 * Torchvision: 用來做　**影像處理**，Ex: 影像處理、影像辨識。
