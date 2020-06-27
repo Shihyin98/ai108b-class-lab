@@ -20,10 +20,30 @@
 ### 課堂學習筆記 (所有連結--方便打分)
 
 * 課堂上執行的範例程式
+  * 00-basic
+    * Code: [00-basic]()
+    * Notes:
+  * 02-optimize
+    * Code: 
+    * Notes:
+  * 03-optimize
+    * Code: 
+    * Notes:
+  * 04-optimize
+    * Code: 
+    * Notes:
+  * 05-optimize
+    * Code: 
+    * Notes:
+  * 05-optimize
+    * Code: 
+    * Notes:
+  * 05-optimize
+    * Code: 
+    * Notes:
 
 
+### 線上課程  
 
-### 線上課程  :smirk:
-
-
+* 李弘毅 -- http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html
 
