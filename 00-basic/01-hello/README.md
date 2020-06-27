@@ -1,6 +1,6 @@
 # :eyes: Outline
-1. area.py
-2. hello.py
+1. [area.py](area.py)
+2. [hello.py](hello.py)
 
 # 1. area.py
 ## 1.1- Terminal

@@ -27,7 +27,7 @@ D:\ai108b\00-basic_w1-0305-Python\00-exercise> py .\norm2.py
     對 3 開平方根號
     <br>
 
-    ![$$\sqrt{3}$$](https://latex.codecogs.com/gif.latex?\sqrt{3})
+    [$$\sqrt{3}$$](https://latex.codecogs.com/gif.latex?\sqrt{3})
     <!-- $$\sqrt{3}$$ -->
   * Variables:
     | Var  |  s  |  x  |
@@ -41,7 +41,7 @@ D:\ai108b\00-basic_w1-0305-Python\00-exercise> py .\norm2.py
     3 的 1/2 次方 (對 3 開平方根號)
     <br>
 
-    ![$$3^{\tfrac{1}{2}}$$](https://latex.codecogs.com/gif.latex?3^{\tfrac{1}{2}})
+    [$$3^{\tfrac{1}{2}}$$](https://latex.codecogs.com/gif.latex?3^{\tfrac{1}{2}})
     <!-- $$3^{\tfrac{1}{2}}$$ -->
   * Variables:
     | Var  |  s  |  x  |  k  |
@@ -55,7 +55,7 @@ D:\ai108b\00-basic_w1-0305-Python\00-exercise> py .\norm2.py
     3 的 1 次方
     <br>
 
-    ![$$3^{1}$$](https://latex.codecogs.com/gif.latex?3^{1})
+    [$$3^{1}$$](https://latex.codecogs.com/gif.latex?3^{1})
     <!-- $$3^{1}$$ -->
   * Variables:
     | Var  |  s  |  x  |  k  |
@@ -69,7 +69,7 @@ D:\ai108b\00-basic_w1-0305-Python\00-exercise> py .\norm2.py
     3 的 1/3 次方 (對 3 開立方根號) 
     <br>
 
-    ![$$\sqrt[3]{3}$$](https://latex.codecogs.com/gif.latex?\sqrt[3]{3})
+    [$$\sqrt[3]{3}$$](https://latex.codecogs.com/gif.latex?\sqrt[3]{3})
     <!-- $$\sqrt[3]{3}$$ -->
   * Variables:
     | Var  |  s  |  x  |  k  |
