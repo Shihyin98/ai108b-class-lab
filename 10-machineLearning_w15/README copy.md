@@ -1,18 +1,16 @@
 # W 15 - Machine Learning - Lab
 
-> Date: 2020/ 06/ 18 (Thur.)
+> Date: 2020/ 06/ 11 (Thur.)
 
 
 ## Install
 * 套件安裝
-* [Python](https://www.python.org/downloads/)
-* [PyCharm](https://www.jetbrains.com/education/download/#section=pycharm-edu)
-
+* [venv 虛擬環境](https://docs.python.org/3/library/venv.html?fbclid=IwAR19zPQB3Wi-Q7Wgg1QaXZgSwL6DtQb6qD8nPl_i5skInUNGzAR0SVPFePI)
 
 
 # 課上執行範例
 
-## 11-deepLearning
+## 10-machineLearning、11-deepLearning
 |                  執行代碼                 |    代碼執行筆記    |
 | :--------------------------------------: | :---------: | 
 | 01-pretrained/ 01-torchvision/ 01-classify/ alexnet.py | [01-README](01-hello/README.md) |
